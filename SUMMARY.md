@@ -20,6 +20,7 @@
     * [JavaScript Node.js](tools/visual-studio-code/extensions/javascript-node.js.md)
     * [Go](tools/visual-studio-code/extensions/go.md)
     * [Optional](tools/visual-studio-code/extensions/optional.md)
+  * [Settings](tools/visual-studio-code/settings.md)
 * [Docker](tools/docker.md)
 
 ## &#x20; <a href="#feature" id="feature"></a>
