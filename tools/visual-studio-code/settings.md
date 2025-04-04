@@ -39,7 +39,6 @@ description: >-
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.startupEditor": "none",
   "workbench.tree.enableStickyScroll": false,
-
   // Default Formatter
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features",
@@ -49,7 +48,7 @@ description: >-
     // Extension: Laravel Blade formatter
     "editor.defaultFormatter": "shufo.vscode-blade-formatter"
   },
-  "[css][javascript][json][jsonc]": {
+  "[css][javascript]": {
     // Extension: Prettier - Code formatter
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "prettier.printWidth": 80,
@@ -67,38 +66,29 @@ description: >-
     // Extension: markdownlint
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   },
-
   // Extension: CodeSnap
   "codesnap.transparentBackground": true,
-
   // Extension: DotENV
   "files.associations": {
     "*.env": "dotenv"
   },
-
   // Extension: Error Lens
   "errorLens.codeLensEnabled": true,
-
   // Extension: Laravel Blade formatter
   "bladeFormatter.format.indentSize": 2,
   "bladeFormatter.format.sortHtmlAttributes": "code-guide",
   "bladeFormatter.format.sortTailwindcssClasses": true,
-
   // Extension: markdownlint
   "markdownlint.config": {
     "MD033": false,
     "MD041": false
   },
-
   // Extension: Material Icon Theme
   "workbench.iconTheme": "material-icon-theme",
-
   // Extension: One Dark Pro
   "workbench.colorTheme": "One Dark Pro Flat",
-
   // Extension: PlantUML
   "plantuml.server": "http://www.plantuml.com/plantuml",
-
   // Extension: Todo Tree
   "todo-tree.highlights.enabled": false
 }
