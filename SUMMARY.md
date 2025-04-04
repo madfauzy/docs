@@ -12,6 +12,14 @@
 
 ## Tools
 
+* [Visual Studio Code](tools/visual-studio-code/README.md)
+  * [Extensions](tools/visual-studio-code/extensions/README.md)
+    * [Core](tools/visual-studio-code/extensions/core.md)
+    * [HTML CSS](tools/visual-studio-code/extensions/html-css.md)
+    * [PHP Laravel](tools/visual-studio-code/extensions/php-laravel.md)
+    * [JavaScript Node.js](tools/visual-studio-code/extensions/javascript-node.js.md)
+    * [Go](tools/visual-studio-code/extensions/go.md)
+    * [Optional](tools/visual-studio-code/extensions/optional.md)
 * [Docker](tools/docker.md)
 
 ## &#x20; <a href="#feature" id="feature"></a>
