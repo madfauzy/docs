@@ -24,6 +24,7 @@
 * [Git](tools/git/README.md)
   * [Commit Message](tools/git/commit-message.md)
   * [Change Commit Message](tools/git/change-commit-message.md)
+  * [Delete Commit History](tools/git/delete-commit-history.md)
 * [Docker](tools/docker.md)
 
 ## &#x20; <a href="#feature" id="feature"></a>
